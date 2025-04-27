@@ -35,10 +35,10 @@ const Home = () => {
               well-structured interfaces, always learning something new with
               each project.
             </p>
-            <button className="border cursor-pointer duration-700 px-4 py-1.5 rounded-4xl my-5 bg-neutral-600 font-extrabold text-lg hover:bg-neutral-200 hover:text-neutral-600 hover:px-6 hover:py-3 mr-5">
+            <button className="border cursor-pointer duration-700 px-4 py-1.5 rounded-4xl my-5 bg-neutral-600 font-extrabold text-lg hover:bg-neutral-200 hover:text-neutral-600 hover:scale-110 mr-5">
               Resume
             </button>
-            <button className="border cursor-pointer duration-700 px-4 py-1.5 rounded-4xl my-5 bg-neutral-200 text-neutral-600 font-extrabold text-lg hover:text-neutral-200 hover:bg-neutral-600 hover:px-6 hover:py-3">
+            <button className="border cursor-pointer duration-700 px-4 py-1.5 rounded-4xl my-5 bg-neutral-200 text-neutral-600 font-extrabold text-lg hover:text-neutral-200 hover:bg-neutral-600 hover:scale-110 ">
               <a href={Curriculo} target="_blank">
                 <span className="flex gap-2">
                   {" "}
